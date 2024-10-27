@@ -35,8 +35,6 @@ public class UserProfilePage {
             txtEmail.sendKeys(Keys.CONTROL,"a");
             txtEmail.sendKeys(Keys.BACK_SPACE);
 
-
-
             String newEmail = Utils.geneateRandomEmail();
             System.out.println(newEmail);
 

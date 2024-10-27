@@ -23,7 +23,7 @@ public class UserDashboardTestRunner extends Setup {
 
 
 
-    @BeforeTest(description = "User Logged In successfully after reset password")
+    @Test(priority = 1,description = "User Logged In successfully after reset password")
     public void UserLogin() throws ParseException, IOException, InterruptedException {
         loginPage = new LoginPage(driver);
 
@@ -38,7 +38,7 @@ public class UserDashboardTestRunner extends Setup {
 
     }
 
-    @Test( priority = 1, dataProvider = "AddCostData", dataProviderClass = AddCostDataSet.class, description = "Adding Data From CSV File to User" )
+    @Test( priority = 2, dataProvider = "AddCostData", dataProviderClass = AddCostDataSet.class, description = "Adding Data From CSV File to User" )
     public void addCost(String name,String amount,int quantity,String date,String month,String remark) throws InterruptedException {
 
         UserAddCostPage addCostPage=new UserAddCostPage(driver);
@@ -53,7 +53,7 @@ public class UserDashboardTestRunner extends Setup {
 
 
 
-    @Test(priority = 2, description = "Assert The newly Added Products")
+    @Test(priority = 3, description = "Assert The newly Added Products")
     public  void productAssertion( ) throws InterruptedException {
 
 
