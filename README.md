@@ -42,8 +42,8 @@ Also done email reading using Rest Assured.
 
 
 
-
-  
+### Excel Test Case Report
+- [Click Here To See The Test Case Excel Report](https://docs.google.com/spreadsheets/d/1ECIca78XjViX5bDH4k1d_53MIdzfgRFO43PCRIuGl74/edit?usp=sharing)
 
 
 ### Output Video Link :
