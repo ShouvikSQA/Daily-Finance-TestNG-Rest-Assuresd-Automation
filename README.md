@@ -34,9 +34,11 @@ Also done email reading using Rest Assured.
 
 ## Output -
 
-![image](https://github.com/user-attachments/assets/d2523920-5bcb-4d9d-91f2-0ab04c5b0fef)
+![image](https://github.com/user-attachments/assets/dd06f94f-eb1d-44f7-9675-3f8f63698854)
 
-![image](https://github.com/user-attachments/assets/6a50472e-d4e6-45b7-a2d4-32c33795e00a)
+
+![image](https://github.com/user-attachments/assets/138c5d0a-039c-4ceb-84d4-5ac74827a5ff)
+
 
 
 
@@ -45,5 +47,5 @@ Also done email reading using Rest Assured.
 
 
 ### Output Video Link :
--  [Click Here To see the output video of Automation Script ](https://drive.google.com/file/d/1eeQjrNmyFetkqS9bS0r7_SHj04ws-nzD/view?usp=sharing)
+-  [Click Here To see the output video of Automation Script ](https://drive.google.com/file/d/1dOfKdEl4rfw0XU0sEVh-t1Jcg66sZnhC/view?usp=sharing)
     
